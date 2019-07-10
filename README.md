@@ -11,6 +11,7 @@ of the Git repository and various commands
 using a web project
 1. Adding one more line for rebase triple
 2. Addign second line
+3. Addign third line
 
 ## Purpose
 
