@@ -9,6 +9,7 @@ Adding a line for rebasing example
 This is example is to show different parts
 of the Git repository and various commands
 using a web project
+1. Adding one more line for rebase triple
 
 ## Purpose
 
