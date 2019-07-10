@@ -34,4 +34,4 @@ for review
 
 ### Copyright
 
-2019 Homeverse
+2019 Homeverse, Copyright Captain Eudomos
